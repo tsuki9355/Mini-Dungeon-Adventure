@@ -1,0 +1,17 @@
+# Build output
+build/
+dungeon
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Saved scores (created when you play)
+highscores.txt
+
+# Editor and OS files
+.vs/
+*.log
+Thumbs.db
+.DS_Store
